@@ -55,6 +55,13 @@ others
 
 <br><br>
 
+# 📜 기능명세서
+
+![image](https://user-images.githubusercontent.com/68639271/141271112-35215bbb-495f-4c10-a4bc-3ca89d522733.png)
+![image](https://user-images.githubusercontent.com/68639271/141271467-3a240dba-66ba-4349-8026-1ec3270589ec.png)
+
+<br><br>
+
 # 🗓 Time Table
 ![image](https://user-images.githubusercontent.com/68639271/137893709-143a0dde-5299-4fc2-8d40-9626a88ff8e8.png)
 [중간 프로젝트](https://www.notion.so/a2760ac5af1048bb8e29a7d7c71d9804)
